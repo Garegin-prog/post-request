@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "login": "admin",
+      "password": "1111",
+      "id": 1
+    },
+    {
+      "login": "admin",
+      "password": "1111",
+      "id": 3
+    },
+    {
+      "login": "admin",
+      "password": "1111",
+      "id": 4
+    },
+    {
+      "login": "admin",
+      "password": "1111",
+      "id": 5
+    },
+    {
+      "login": "admin",
+      "password": "1111",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
